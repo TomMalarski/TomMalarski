@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">JunoirSoftwareDeveloper/FullStackDeveloper</h3>
+<h3 align="center">JuniorSoftwareDeveloper/FullStackDeveloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tommalarski&label=Profile%20views&color=7a0eb4&style=flat" alt="tommalarski" /> </p>
 
